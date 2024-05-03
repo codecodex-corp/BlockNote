@@ -1,5 +1,5 @@
 {
-  "name": "Codecodex-blocknote",
+  "name": "codecodex-blocknote",
   "private": true,
   "workspaces": [
     "packages/*",
