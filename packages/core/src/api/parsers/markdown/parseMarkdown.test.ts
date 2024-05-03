@@ -44,7 +44,7 @@ Paragraph
   });
 
   it("Convert styled Markdown to blocks", async () => {
-    const markdown = `**Bold** *Italic* ~~Strikethrough~~ ***Multiple***`;
+    const markdown = `**Gras** *Italic* ~~Strikethrough~~ ***Multiple***`;
     await parseMarkdownAndCompareSnapshots(markdown, "styled");
   });
 

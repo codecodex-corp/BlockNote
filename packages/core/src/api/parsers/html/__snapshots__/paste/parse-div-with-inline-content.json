@@ -15,7 +15,7 @@
       },
       {
         "type": "text",
-        "text": "Bold ",
+        "text": "Gras ",
         "styles": {
           "bold": true
         }
