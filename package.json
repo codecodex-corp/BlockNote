@@ -1,6 +1,5 @@
 {
   "name": "codecodex-blocknote",
-  "private": true,
   "workspaces": [
     "packages/*",
     "playground",
