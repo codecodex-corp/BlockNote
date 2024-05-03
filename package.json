@@ -1,5 +1,6 @@
 {
   "name": "codecodex-blocknote",
+  "version": "0.0.1",
   "workspaces": [
     "packages/*",
     "playground",
