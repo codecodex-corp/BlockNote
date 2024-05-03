@@ -98,21 +98,21 @@
       },
       {
         "type": "text",
-        "text": "Bold ",
+        "text": "Gras ",
         "styles": {
           "bold": true
         }
       },
       {
         "type": "text",
-        "text": "Italic ",
+        "text": "Italique ",
         "styles": {
           "italic": true
         }
       },
       {
         "type": "text",
-        "text": "Underline ",
+        "text": "Souligner ",
         "styles": {
           "underline": true
         }
