@@ -1,8 +1,6 @@
 {
-  "name": "codecodex-blocknote/core",
-  "homepage": "https://github.com/TypeCellOS/BlockNote",
+  "name": "@codecodex-blocknote/core",
   "private": false,
-  "license": "MPL-2.0",
   "version": "0.12.3",
   "files": [
     "dist",
